@@ -1,10 +1,15 @@
 ### Hi there, I'm [jewdev][website] 👋
 
+[![Website](https://img.shields.io/website?label=jewdev.xyz&style=for-the-badge&url=https://jewdev.xyz)][website]
+
 ## I'm a young developer that explores the internet!
 - 🔭 I’m currently updating my repositories!
 - 🌱 I’m currently learning Python.
 - 🥅 Goals: Learn more!
 - ⚡ Fun fact: I also playing video games.
+
+### Spotify Playing 🎧
+[<img src="https://jewdev-novatorem.vercel.app/api/spotify-playing" alt="jewdev Spotify Playing" width="350" />][spotify]
 
 ### Connect with me:
 
