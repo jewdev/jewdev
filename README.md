@@ -6,7 +6,7 @@
 - 🔭 I’m currently updating my repositories!
 - 🌱 I’m currently learning Python.
 - 🥅 Goals: Learn more!
-- ⚡ Fun fact: I also playing video games.
+- ⚡ Fun fact: I also play video games.
 
 ### Spotify Playing 🎧
 [<img src="https://jewdev-novatorem.vercel.app/api/spotify-playing" alt="jewdev Spotify Playing" width="350" />][spotify]
