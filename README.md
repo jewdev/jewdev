@@ -39,8 +39,10 @@
 <br />
 
 ---
+## My Github Stats
+<img align="left" alt="jewdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jewdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
-<img align="left" alt="jewdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jewdev&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<img align="left" alt="jewdev's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewdev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 [website]: https://jewdev.xyz
 [spotify]: https://open.spotify.com/playlist/53yVdIdoyYeTcVYnWVzI7w?si=Oz0P4_9iTymMZr6btnKHRg
