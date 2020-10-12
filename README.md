@@ -33,6 +33,15 @@
 <br />
 
 ---
+
+### Spotify Playing 🎧
+[<img src="https://jewdev-novatorem.vercel.app/api/spotify-playing" alt="jewdev Spotify Playing" width="350" />][spotify]
+
+<br />
+<br />
+
+---
+
 ## My Github Stats
 <img align="left" style="display:block;margin:10px 0 10px 0;" alt="jewdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jewdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
@@ -42,11 +51,3 @@
 [spotify]: https://open.spotify.com/playlist/53yVdIdoyYeTcVYnWVzI7w?si=Oz0P4_9iTymMZr6btnKHRg
 [telegram]: https://t.me/bluelxrd
 [discord]: https://dsc.bio/Israel
-
-<br />
-<br />
-
----
-
-### Spotify Playing 🎧
-[<img src="https://jewdev-novatorem.vercel.app/api/spotify-playing" alt="jewdev Spotify Playing" width="350" />][spotify]
