@@ -35,9 +35,6 @@
 ### Spotify Playing 🎧
 [<img src="https://jewdev-novatorem.vercel.app/api/spotify-playing" alt="jewdev Spotify Playing" width="350" />][spotify]
 
-<br />
-<br />
-
 ---
 
 ## My Github Stats
