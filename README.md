@@ -2,15 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=jewdev.xyz&style=for-the-badge&url=https://jewdev.xyz)][website]
 
-## I'm a young developer that explores the internet!
-- 🔭 I’m currently updating my repositories!
-- 🌱 I’m currently learning Python.
-- 🥅 Goals: Learn more!
-- ⚡ Fun fact: I also play video games.
-
-### Spotify Playing 🎧
-[<img src="https://jewdev-novatorem.vercel.app/api/spotify-playing" alt="jewdev Spotify Playing" width="350" />][spotify]
-
 ### Connect with me:
 
 [<img align="left" alt="jewdev.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,6 +10,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+<br />
+
+---
 
 ### Languages and Tools:
 
@@ -48,3 +42,11 @@
 [spotify]: https://open.spotify.com/playlist/53yVdIdoyYeTcVYnWVzI7w?si=Oz0P4_9iTymMZr6btnKHRg
 [telegram]: https://t.me/bluelxrd
 [discord]: https://dsc.bio/Israel
+
+<br />
+<br />
+
+---
+
+### Spotify Playing 🎧
+[<img src="https://jewdev-novatorem.vercel.app/api/spotify-playing" alt="jewdev Spotify Playing" width="350" />][spotify]
