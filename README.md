@@ -1,7 +1,7 @@
 ### Hi there, I'm [jewdev][website] 👋
 
 [![Website](https://img.shields.io/website?label=jewdev.xyz&style=for-the-badge&url=https://jewdev.xyz)][website]
-[![Website](https://img.shields.io/website?label=adirelad.com&style=for-the-badge&url=https://adirelad.com)][https://adirelad.com]
+[![Website](https://img.shields.io/website?label=adirelad.com&style=for-the-badge&url=https://adirelad.com)][adirelad]
 
 ### Connect with me:
 
@@ -46,6 +46,7 @@
 <img align="left" style="display:block;margin:10px 0 10px 0;" alt="jewdev's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewdev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 [website]: https://jewdev.xyz
+[adirelad]: https://adirelad.com
 [spotify]: https://open.spotify.com/playlist/53yVdIdoyYeTcVYnWVzI7w?si=Oz0P4_9iTymMZr6btnKHRg
 [telegram]: https://t.me/bluelxrd
 [discord]: https://dsc.bio/Israel
