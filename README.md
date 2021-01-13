@@ -1,6 +1,7 @@
 ### Hi there, I'm [jewdev][website] 👋
 
 [![Website](https://img.shields.io/website?label=jewdev.xyz&style=for-the-badge&url=https://jewdev.xyz)][website]
+[![Website](https://img.shields.io/website?label=adirelad.com&style=for-the-badge&url=https://adirelad.com)][https://adirelad.com]
 
 ### Connect with me:
 
