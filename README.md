@@ -9,3 +9,5 @@ hi, im jd 🔮.
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
+
+<img src="https://u8views.com/api/v1/github/profiles/28711824/views/day-week-month-total-count.svg" width="0" height="0">
