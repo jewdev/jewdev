@@ -5,7 +5,7 @@ hi, im jd 🔮.
 
 @@advanced programming student.@@
 + living in tel aviv, israel.
-- 22 years old
+- 23 years old
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
